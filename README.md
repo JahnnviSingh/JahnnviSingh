@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 - 🔭 I’m currently working on My Portfolio website and an AI based ChatBot for IBM Challenge. 
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning. 
