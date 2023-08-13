@@ -84,7 +84,40 @@ __Machine Learning/Deep Learning__ \
 
 
 
+## 📕 &nbsp;Repositories  
 
+<div width="100%" align="center">
+  <a href="https://github.com/JahnnviSingh/Predict_Bike_Sharing_Demand_with_AutoGluon" title="Predict_Bike_Sharing_Demand_with_AutoGluon">
+    <img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=JahnnviSingh&repo=Predict_Bike_Sharing_Demand_with_AutoGluon&theme=react&border_color=61dafb&border_radius=10">  </a>
+  <a href="https://github.com/JahnnviSingh/Acadmica" title="Acadmica">
+    <img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=JahnnviSingh&repo=Acadmica&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/><br>
+
+<div width="100%" align="center">
+  <a href="https://github.com/JahnnviSingh/MovieRecommendationSystem" title="MovieRecommendationSystem">      <img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=JahnnviSingh&repo=MovieRecommendationSystem&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/JahnnviSingh/ShapeAI_Python_Machine_Learning" title="ShapeAI_Python_Machine_Learning">
+    <img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=JahnnviSingh&repo=ShapeAI_Python_Machine_Learning&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/><br>
+
+<div width="100%" align="center">
+  <a href="https://github.com/JahnnviSingh/WeatherApp" title="WeatherApp">
+    <img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=JahnnviSingh&repo=WeatherApp&theme=react&border_color=61dafb&border_radius=10">
+  </a> 
+  <a href="https://github.com/JahnnviSingh/ShapeAIprojectDA" title="ShapeAIprojectDA">
+    <img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=JahnnviSingh&repo=ShapeAIprojectDA&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>  
+</br></br></br></br></br></br>
+
+
+<h4 align="center">
+  <a href="https://github.com/JahnnviSingh?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 
 
