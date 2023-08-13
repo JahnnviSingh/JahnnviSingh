@@ -69,10 +69,23 @@ __Machine Learning/Deep Learning__ \
 
 ## ⚙️ &nbsp;GitHub Analytics
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JahnnviSingh&label=Profile%20views&color=brightgreen&style=flat-square" alt="JahnnviSingh" /> </p>
 
-<p align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JahnnviSingh&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+<p>
 <a href="https://github.com/JahnnviSingh">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JahnnviSingh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JahnnviSingh&layout=compact&langs_count=8&theme=algolia"/>
 </p>
+
+
+
+
+
+
+
+
