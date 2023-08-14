@@ -16,7 +16,8 @@ I am Jahnvi Singh, a Computer Science Student in Final Year of B.Tech <img src="
 </div>
 
 <p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=2500&pause=1000&color=7b36eb&center=true&vCenter=true&width=500&lines=ML+Engineer;Open+Source+Advocate;Data+Analyst" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=2500&pause=1000&color=7b36eb&center=true&vCenter=true&width=500&lines=ML+Engineer;Open+Source+Advocate;Data+Analyst" alt="Typing SVG" />
+  </a>
 </p>
 
 
@@ -28,7 +29,7 @@ I am Jahnvi Singh, a Computer Science Student in Final Year of B.Tech <img src="
   <a href="https://www.linkedin.com/in/jahnvi-singh-749626212">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  </div>
+ </div>
 
 
 ## 📈 &nbsp;Activity Graph
@@ -117,6 +118,10 @@ __Machine Learning/Deep Learning__ \
 <h4 align="center">
   <a href="https://github.com/JahnnviSingh?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 
 <!--
