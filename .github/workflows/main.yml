@@ -3,7 +3,7 @@ name: Update badges
 on:
   schedule:
     # Runs at 2am UTC
-    - cron: "1 3 * * *"
+    - cron: "16 1 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -12,4 +12,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: 0201csml158@niet.co.in # optional, but default will use the same from github
+          CREDLY_USER: jahnvi-singh.cfbe3c33 # optional, but default will use the same from github
