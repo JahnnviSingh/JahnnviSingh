@@ -72,9 +72,7 @@ __Machine Learning/Deep Learning__ \
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JahnnviSingh&label=Profile%20views&color=brightgreen&style=flat-square" alt="JahnnviSingh" /> </p>
 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JahnnviSingh&theme=dark&background=000000)](https://git.io/streak-stats)
-
 
 <p>
 <a href="https://github.com/JahnnviSingh">
